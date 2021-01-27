@@ -1,12 +1,14 @@
-# Fandelyuk Konstantin
+# **Fandelyuk Konstantin**
 
 >Contacts
 
 Ukraine, Kyiv. || +38(063) 485-97-97 || fandeluk.k@gmail.com
+
 >About_Me
 
-Creative and open-minded, I am easygoing person and able to work in a team. I am susceptible to everything new, able to learn and study, determined. Good leadership and organizational skills
->Skill
+*Creative and open-minded, I am easygoing person and able to work in a team. I am susceptible to everything new, able to learn and study, determined. Good leadership and organizational skills*
+
+>Skills
 
 1. HTML 5
 2. CSS 3
@@ -20,6 +22,7 @@ Creative and open-minded, I am easygoing person and able to work in a team. I am
 10. Figma
 
 >My Project 
+
 * https://github.com/KonstantinFandelyuk/MyWork
 * https://github.com/KonstantinFandelyuk/TaskOnlyReact
 * https://tastenuts.com/
