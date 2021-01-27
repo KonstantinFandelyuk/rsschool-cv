@@ -1,4 +1,5 @@
-#Fandelyuk Konstantin
+# Fandelyuk Konstantin
+
 >Contacts
 
 Ukraine, Kyiv. || +38(063) 485-97-97 || fandeluk.k@gmail.com
@@ -18,8 +19,13 @@ Creative and open-minded, I am easygoing person and able to work in a team. I am
 9. Adobe Photoshop
 10. Figma
 
-Примеры кода *
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.**
+>My Project 
+* https://github.com/KonstantinFandelyuk/MyWork
+* https://github.com/KonstantinFandelyuk/TaskOnlyReact
+* https://tastenuts.com/
+* https://www.galahad-trade.com/
+
+
 >Education
 
 Javascript.info
